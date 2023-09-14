@@ -1,0 +1,2 @@
+# OpenWeatherMap-API
+weather visualizations
